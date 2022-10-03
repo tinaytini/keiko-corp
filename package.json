@@ -1,0 +1,24 @@
+{
+  "name": "keiko-corp",
+  "version": "1.0.0",
+  "description": "The greatest company ever created by Bruno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webp": "simple-webp-converter",
+    "start": "run start"
+  },
+  "simple-webp-converter": {
+    "src": "img/*.{webp,jpg}"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinaytini/keiko-corp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinaytini/keiko-corp/issues"
+  },
+  "homepage": "https://github.com/tinaytini/keiko-corp#readme"
+}
